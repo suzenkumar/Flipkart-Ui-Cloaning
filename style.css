@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Header container */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #fff;
+  padding: 10px 20px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Logo */
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  color: #2874f0;
+}
+
+.logo span {
+  font-size: 12px;
+  color: gray;
+  font-weight: normal;
+  margin-left: 4px;
+}
+
+.logo span b {
+  color: #f9a825;
+}
+
+/* Search bar */
+.search-bar {
+  flex: 1;
+  margin: 0 20px;
+}
+
+.search-bar input {
+  width: 100%;
+  padding: 8px 15px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+}
+
+/* Right menu */
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  font-size: 14px;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.menu-item:hover {
+  color: #2874f0;
+}
+
+.menu-item i {
+  font-size: 18px;
+}
+
+.adv1 {
+  
+  display:flex;
+  border-color: black 2px;
+  background-color: white;
+}
+
+.img {
+  align-items: center;
+  margin:auto;
+  width: auto;
+}
+.img:hover{
+  cursor: pointer;
+}
+
+.advtxt{
+  color: #333333;
+  font-style: Aria;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+}
+section{
+  background-color: #F1F2F4;
+}
+
+.adv2{
+  display: flex;
+
+}
+.mobileimg{
+  width: 90px;
+}
+.mobilebox{
+  margin-left: 280px;
+}
+.mobileadv{
+  width: 180px;
+}
+
+p {
+  font-color:#909090;
+  font-size:10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.ag{
+  font-color:#6f6f6f;
+  font-size: 11px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
