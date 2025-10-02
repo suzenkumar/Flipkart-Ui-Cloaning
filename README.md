@@ -14,8 +14,12 @@ A front-end clone of the Flipkart e-commerce website built using HTML, CSS, and 
 
 ## 📷 Screenshots
 
-![Home Page](screenshots/home.png)
-![Product Page](screenshots/product.png)
+## 📷 Screenshots
+
+### 🏠 Home Page  
+![Home Page](https://github.com/suzenkumar/Flipkart-Ui-Cloaning/blob/main/Screenshot%202025-10-02%20214802.png)
+
+
 
 ## 📁 Project Structure
 
