@@ -9,7 +9,7 @@ A front-end clone of the Flipkart e-commerce website built using HTML, CSS, and 
 
 ## 🔥 Demo
 
-[Click here to view live](https://your-deployment-link.com)  
+[Click here to view live](https://flipkart-ui-cloaning.vercel.app/)  
 *(Optional — add a live demo if hosted on GitHub Pages, Vercel, Netlify, etc.)*
 
 ## 📷 Screenshots
@@ -17,7 +17,7 @@ A front-end clone of the Flipkart e-commerce website built using HTML, CSS, and 
 ## 📷 Screenshots
 
 ### 🏠 Home Page  
-![Home Page](https://github.com/suzenkumar/Flipkart-Ui-Cloaning/blob/main/Screenshot%202025-10-02%20214802.png)
+![Home Page](https://flipkart-ui-cloaning.vercel.app/)
 
 
 
@@ -62,7 +62,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flipkart-ui-clone.git
+   git clone https://github.com/suzenkumar/Flipkart-Ui-Cloaning
 ````
 
 2. Navigate to the project directory:
@@ -86,9 +86,7 @@ npm start
 * [ ] Add filtering & sorting UI
 * [ ] Connect to a fake or real backend
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgements
 
@@ -102,7 +100,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
 
-Would you like me to customize this based on your tech stack (e.g. **React**, **Tailwind**, **Next.js**, etc.) or your actual folder structure? Just let me know.
-```
